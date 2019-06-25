@@ -1,1 +1,1 @@
-# giorgi-khachapuridze-personal-project-typescript
+# typescript-env
